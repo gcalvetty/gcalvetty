@@ -41,6 +41,7 @@ I'm a professional software developer for more than 20 years.
 #### Version Control:
 
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&labelColor=black)]()
+
 And more...
 
 ## Find me at:
