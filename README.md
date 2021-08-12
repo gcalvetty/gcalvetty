@@ -1,4 +1,4 @@
-# ![https://gecndev.com](https://raw.githubusercontent.com/gcalvetty/gcalvetty/master/gcalvetty_emote.png) Hello, my name is Guillermo Elías Calvetty Núñez
+# ![https://gecndev.com](https://raw.githubusercontent.com/gcalvetty/gcalvetty/master/gecndev_emote.png) Hello, my name is Guillermo Elías Calvetty Núñez
 
 ### Freelance full-stack Developer Web
 
